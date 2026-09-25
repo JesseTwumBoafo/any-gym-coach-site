@@ -10,4 +10,4 @@ GitHub Pages serves the site from the root of the `main` branch. The `.nojekyll`
 
 The site is static. It has no build step, no framework, no analytics, no external scripts, no third-party fonts and no cookies. Each page sets a Content Security Policy that blocks every resource that is not on this site.
 
-The page text is placeholder text for now. The final text replaces it after review.
+The page text is final. Two placeholders remain on each page: the contact address and the effective date.
